@@ -3,7 +3,7 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:10
-#EXTINF:9.888233,
+#EXTINF:9.821567,
 segment-000.ts
 #EXTINF:8.333333,
 segment-001.ts
@@ -11,6 +11,14 @@ segment-001.ts
 segment-002.ts
 #EXTINF:8.333333,
 segment-003.ts
-#EXTINF:4.900000,
+#EXTINF:8.333333,
 segment-004.ts
+#EXTINF:8.333333,
+segment-005.ts
+#EXTINF:8.333333,
+segment-006.ts
+#EXTINF:8.333333,
+segment-007.ts
+#EXTINF:1.566667,
+segment-008.ts
 #EXT-X-ENDLIST
